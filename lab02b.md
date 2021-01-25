@@ -29,7 +29,7 @@ _This will also be italic_ ( **by putting the text inside** (_ _ ) )
 2. Item 2
 3. Item 3
 (**by putting the num + . before the item**)
-
+ 
 **Logo**
 
 Images
