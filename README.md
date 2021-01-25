@@ -32,7 +32,7 @@ _Pay no attention to what the critics say even if were your self_
 
 ######  5-Success of others :
 
-_Be inspired by the success of others but don't be intimidated by it , you will be if you can_
+_Be inspired by the success of others but don't be intimidated by it , you will can if you want_
 
 
 ## How i remind  myself of how to keep me in a growth mindset :
@@ -49,7 +49,8 @@ _Be inspired by the success of others but don't be intimidated by it , you will 
 
 
 
-
+## table of content 
+link for the pages 
 
 
 
