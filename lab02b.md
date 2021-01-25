@@ -37,7 +37,7 @@ Images
 
 
 **Links**
-[Any Text that connect you to another link ]( **url** )
+Any Text that connect you to another link inside [] and the url inside ()
 
 
 
