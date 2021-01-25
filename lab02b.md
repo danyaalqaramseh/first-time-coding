@@ -10,7 +10,9 @@
 
 **Header**
 (#)) Before any text give a  **h1** tag
+
 (##) This is an (**h2**) tag
+
 (######) This is an (**h6**) tag
 
 
@@ -18,7 +20,7 @@
 
 *This text will be italic* (**by putting the text inside stars**)
 
-_This will also be italic_ ( **by putting the text inside (_ _ ) **)
+_This will also be italic_ ( **by putting the text inside** (_ _ ) )
 
 
 **Ordered**
@@ -35,7 +37,7 @@ Images
 
 
 **Links**
-[GitHub](http://github.com)
+[Any Text that connect you to another link ]( **url** )
 
 
 
