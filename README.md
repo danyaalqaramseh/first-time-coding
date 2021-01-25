@@ -44,7 +44,8 @@ _Be inspired by the success of others but don't be intimidated by it , you will 
 [Hajime isayama](https://www.goodreads.com/author/quotes/5365396.Hajime_Isayama)
 
 
-
+## And finally don't miss what Armin arlert said :
+>_someone who can't sacrifice anything , can't ever change anything_ 
 
 
 
