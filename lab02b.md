@@ -3,21 +3,22 @@
 
 ## Markdown is a way to style text on the web. You control the display of the document
 
- ## Files must with the .md or .markdown extension
+ ## Files must with the *.md* or *.markdown extension*
 
 
  **overview of Markdown syntax**
 
 **Header**
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+(#)) Before any text give a  **h1** tag
+(##) This is an (**h2**) tag
+(######) This is an (**h6**) tag
+
 
 **Emphasis**
 
 *This text will be italic* (**by putting the text inside stars**)
 
-_This will also be italic_ ( **as example above**)
+_This will also be italic_ ( **by putting the text inside (_ _ ) **)
 
 
 **Ordered**
