@@ -55,8 +55,8 @@ link for the pages
 | 201 Reads                                                          | Title                                   |
 | -------------------------------------------------------------------| --------------------------------------- |
 | [main page](https://danyaalqaramseh.github.io/first-time-coding//) | Main-Page                               |
-| [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes                      |
-| [Read02b](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Introductory HTML                       |
+| [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes 02a                     |
+| [Read02b](https://danyaalqaramseh.github.io/reading-notes/Read02b) | Reading-Notes 02b                       |
 
 
 
