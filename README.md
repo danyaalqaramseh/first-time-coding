@@ -52,10 +52,11 @@ _Be inspired by the success of others but don't be intimidated by it , you will 
 ## table of content 
 link for the pages 
 
-| 201 Reads                                            | Title                                   |
-| ---------------------------------------------------- | --------------------------------------- |
-| [main page](https://yourname.github.io/reponame)     | main page                               |
-| [Read01](https://yourname.github.io/reponame/Read01) | Introductory HTML                       |
+| 201 Reads                                                          | Title                                   |
+| -------------------------------------------------------------------| --------------------------------------- |
+| [main page](https://danyaalqaramseh.github.io/first-time-coding//) | Main-Page                               |
+| [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes                      |
+| [Read02b](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Introductory HTML                       |
 
 
 
