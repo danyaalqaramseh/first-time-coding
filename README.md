@@ -55,8 +55,9 @@ link for the pages
 | 201 Reads                                                          | Title                                   |
 | -------------------------------------------------------------------| --------------------------------------- |
 | [main page](https://danyaalqaramseh.github.io/reading-notes/)      | Main-Page                               |
-| [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes 02a                     |
+| [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes 02a                       |
 | [Read02b](https://danyaalqaramseh.github.io/reading-notes/Read02b) | Reading-Notes 02b                       |
+| [Read03](https://danyaalqaramseh.github.io/reading-notes/read03)   | Reading-Notes 03                        |
 
 
 
