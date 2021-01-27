@@ -9,11 +9,7 @@ __On the web javascript code live inside the (HTML) document and needs to be enc
 
 Document.write : is what we need to write the text into our HTML document
 
-We can also use standered HTML to customize the appearance text in the output :
-<script>
-Document.write (“<h1>Hello World <h/>”)
-
-</script>
+We can also use standered HTML to customize the appearance text in the output 
 
 ## Variables : 
 Declaring a variable by using the Keyward **Var** :
@@ -63,7 +59,9 @@ The value of buy is false.
  buy= (5 > 3) && (2 < 4); 
 The value of buy is now true
 
-- ARITHMETI C OPERATORS
+## ARITHMETIC OPERATORS
+
+
 ![ ARITHMETI C OPERATORS]( https://qph.fs.quoracdn.net/main-qimg-720169782501646e393ccbbdc82323a6)
 
 ## STRING OPERATOR 
