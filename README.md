@@ -58,9 +58,10 @@ link for the pages
 | [Read02a](https://danyaalqaramseh.github.io/reading-notes/REad02a) | Reading-Notes 02a                       |
 | [Read02b](https://danyaalqaramseh.github.io/reading-notes/Read02b) | Reading-Notes 02b                       |
 | [Read03](https://danyaalqaramseh.github.io/reading-notes/read03)   | Reading-Notes 03                        |
-| [Read04](https://danyaalqaramseh.github.io/reading-notes/read4)    | Reading-Notes 04 
-| [Read05](https://danyaalqaramseh.github.io/reading-notes/read05)   | Reading-Notes 05
-
+| [Read04](https://danyaalqaramseh.github.io/reading-notes/read4)    | Reading-Notes 04                        |
+| [Read05](https://danyaalqaramseh.github.io/reading-notes/read05)   | Reading-Notes 05                        |
+| [Read06a](https://danyaalqaramseh.github.io/reading-notes/read06a) | Reading-Notes 06a                       |
+| [Read06b](https://danyaalqaramseh.github.io/reading-notes/read06b) | Reading-Notes 06b                       |
 
 
 
