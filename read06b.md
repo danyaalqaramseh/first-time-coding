@@ -11,7 +11,7 @@ __*CSS is used to define styles for your web pages, including the design, layout
 
 ## CSS Syntax
 A CSS rule-set consists of a selector and a declaration block:
-[CSS Syntax](https://www.w3schools.com/css/selector.gif)
+![CSS Syntax](https://www.w3schools.com/css/selector.gif)
 
 * The selector points to the HTML element you want to style.
 
